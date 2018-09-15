@@ -1,0 +1,132 @@
+{
+    "ios": [
+        {
+            "name": "Icon-40.png",
+            "size": 40
+        },
+        {
+            "name": "Icon-58.png",
+            "size": 58
+        },
+        {
+            "name": "Icon-76.png",
+            "size": 76
+        },
+        {
+            "name": "Icon-80.png",
+            "size": 80
+        },
+        {
+            "name": "Icon-87.png",
+            "size": 87
+        },
+        {
+            "name": "Icon-120.png",
+            "size": 120
+        },
+        {
+            "name": "Icon-152.png",
+            "size": 152
+        },
+        {
+            "name": "Icon-167.png",
+            "size": 167
+        },
+        {
+            "name": "Icon-180.png",
+            "size": 180
+        },
+        {
+            "name": "Icon-1024.png",
+            "size": 1024
+        }
+    ],
+    "android": [
+        {
+            "name": "Icon-hdpi.png",
+            "size": 72
+        },
+        {
+            "name": "Icon-ldpi.png",
+            "size": 36
+        },
+        {
+            "name": "Icon-mdpi.png",
+            "size": 48
+        },
+        {
+            "name": "Icon-xhdpi.png",
+            "size": 96
+        },
+        {
+            "name": "Icon-xxhdpi.png",
+            "size": 144
+        },
+        {
+            "name": "Icon-xxxhdpi.png",
+            "size": 192
+        },
+        {
+            "name": "android_icon.png",
+            "size": 512
+        }
+    ],
+    "statusBar": [
+        {
+            "name": "IconNotificationDefault-ldpi.png",
+            "size": 18
+        },
+        {
+            "name": "IconNotificationDefault-ldpi-v9.png",
+            "size": 18
+        },
+        {
+            "name": "IconNotificationDefault-ldpi-v11.png",
+            "size": 18
+        },
+        {
+            "name": "IconNotificationDefault-mdpi.png",
+            "size": 24
+        },
+        {
+            "name": "IconNotificationDefault-mdpi-v9.png",
+            "size": 24
+        },
+        {
+            "name": "IconNotificationDefault-mdpi-v11.png",
+            "size": 24
+        },
+        {
+            "name": "IconNotificationDefault-hdpi.png",
+            "size": 36
+        },
+        {
+            "name": "IconNotificationDefault-hdpi-v9.png",
+            "size": 36
+        },
+        {
+            "name": "IconNotificationDefault-hdpi-v11.png",
+            "size": 36
+        },
+        {
+            "name": "IconNotificationDefault-xhdpi.png",
+            "size": 48
+        },
+        {
+            "name": "IconNotificationDefault-xhdpi-v9.png",
+            "size": 48
+        },
+        {
+            "name": "IconNotificationDefault-xhdpi-v11.png",
+            "size": 48
+        },
+        {
+            "name": "IconNotificationDefault-xxhdpi-v11.png",
+            "size": 72
+        },
+        {
+            "name": "IconNotificationDefault-xxxhdpi-v11.png",
+            "size": 96
+        }
+    ]
+}
